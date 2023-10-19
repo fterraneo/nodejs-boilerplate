@@ -1,7 +1,7 @@
 {
-  "name": "rps",
-  "version": "0.0.2",
-  "description": "My new rock paper scissor game",
+  "name": "nodejs-boilerplate",
+  "version": "0.0.3",
+  "description": "NodeJS boilerplate starting project",
   "engines": {
     "node": ">=16 <19"
   },
