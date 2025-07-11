@@ -38,7 +38,7 @@ export default defineConfig([
     },
     globalIgnores([
         "**/node_modules",
-        "**/jest.config.eslint",
+        "**/jest.config.js",
         "**/eslint.config.js",
     ]),
 ])
