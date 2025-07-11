@@ -1,9 +1,9 @@
 ### NodeJS Boilerplate
 
-NodeJS Boilerplate starting codebase, with jest, linter and prettier
+NodeJS Boilerplate starting codebase, with jest, linter and prettier and typescript support.
 
 ### Recommended setup
-- Enable "Format on save" in your IDE
+- Allow your IDE to use automatic configuration for editorconfig, prettier and eslint, provided by .editorconfig, .prettierrc and .eslintrc files.
 
 ### Commands available through `npm run`
 - `test`, `test:w`,
