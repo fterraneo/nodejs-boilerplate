@@ -8,3 +8,4 @@ NodeJS Boilerplate starting codebase, with jest, linter and prettier
 ### Commands available through `npm run`
 - `test`, `test:w`,
 - `typecheck` or `tc`, `typecheck:w` or `tc:w`
+- `start`,
