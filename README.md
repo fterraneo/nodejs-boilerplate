@@ -1,6 +1,6 @@
 ### NodeJS Boilerplate
 
-NodeJS Boilerplate starting codebase, with jest, linter and prettier and typescript support.
+Node.js baseline, with jest, linter, prettier and TypeScript support.
 
 ### Recommended setup
 - Allow your IDE to use automatic configuration for editorconfig, prettier and eslint, provided by .editorconfig, .prettierrc and eslint.config.js files.
